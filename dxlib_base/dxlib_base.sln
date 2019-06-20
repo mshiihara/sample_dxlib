@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dxlib_base", "dxlib_base.vcxproj", "{D2DFF6D3-27B8-4CF5-A036-3DD7F30E1C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DFF6D3-27B8-4CF5-A036-3DD7F30E1C6F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2DFF6D3-27B8-4CF5-A036-3DD7F30E1C6F}.Debug|x86.Build.0 = Debug|Win32
+		{D2DFF6D3-27B8-4CF5-A036-3DD7F30E1C6F}.Release|x86.ActiveCfg = Release|Win32
+		{D2DFF6D3-27B8-4CF5-A036-3DD7F30E1C6F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F3A47B-8EBF-4947-BB1A-69F53BB2E754}
+	EndGlobalSection
+EndGlobal
